@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Adrián
 
-<!--
-**adriantomas/adriantomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Obi Wan saying Hello](https://media1.tenor.com/m/0H9FujnmL6UAAAAd/hello-there-obi-wan-kenobi.gif)
 
-Here are some ideas to get you started:
+I love turning ambitious product ideas into reliable, cloud-native systems that serve your needs. My day‑to‑day revolves around:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Serverless & event‑driven design** – architecting and building low‑latency, auto‑scaling services within AWS.
+* **Golden‑path tooling** – creating reusable libraries, CI/CD pipelines and guardrails that let teams ship faster with fewer mistakes.
+* **Product‑first thinking** – digging into real user pain points, shaping clear technical roadmaps and measuring impact against business goals.
+* **Hands‑on leadership** – guiding cross‑functional squads, mentoring engineers and fostering a culture where diverse ideas thrive.
+
+I’m also the author of [pydamodb](https://github.com/adriantomas/pydamodb), a lightweight Pydantic ODM that makes working with Amazon DynamoDB more straightforward. Feel free to explore the repo, star it, or raise an issue if you have ideas for improvement.
+
+## 🤝 Let’s connect
+
+LinkedIn: linkedin.com/in/adriantomasvano
+
+*“Great products start with great problems.”* – I’m always looking for the next challenge. 🚀
