@@ -9,4 +9,4 @@ I love turning ambitious product ideas into reliable, cloud-native systems that 
 
 I’m also the author of [pydamodb](https://github.com/adriantomas/pydamodb), a lightweight Pydantic ODM that makes working with Amazon DynamoDB more straightforward. Feel free to explore the repo, star it, or raise an issue if you have ideas for improvement.
 
-*“Great products start with great problems.”* – I’m always looking for the next challenge. 🚀
+*“Great products start with great problems.”* 🚀
