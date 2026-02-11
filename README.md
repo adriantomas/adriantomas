@@ -9,7 +9,7 @@ I love turning ambitious product ideas into reliable, cloud-native systems desig
 
 I’m also the author of:
 
-* [pydamodb](https://github.com/adriantomas/pydamodb), a lightweight Pydantic ODM for Amazon DynamoDB. One-line CRUD with type safety and zero boilerplate.
+* [pydamodb](https://github.com/adriantomas/pydamodb) - A lightweight Pydantic ODM for Amazon DynamoDB. One-line CRUD with type safety and zero boilerplate.
 * [boto3-errors](https://github.com/adriantomas/boto3-errors) – Typed, statically-importable exception classes for every AWS service. No more string-parsing `ClientError` or needing a client instance to catch specific errors.
 
 Feel free to explore, ⭐️, or open an issue.
